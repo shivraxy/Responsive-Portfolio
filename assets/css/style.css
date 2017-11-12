@@ -10,8 +10,6 @@ body {
   box-sizing: border-box;
 }
 
-/* general */
-
 .container {
   width: 100%;
   max-width: 960px;
@@ -282,7 +280,26 @@ input[type=submit] {
 
 
       #message {
-  height: 100px;
+      height: 100px;
+      }
+
+.work img 
+{
+width: 50%;
+height: 50px;
+
+}
+
+.work h3{
+  width: 40%;
+  line-height: 1px;
+  font-weight: 100;
+  font-size: 8px;
+  
+}
+
+.work{
+   margin: 5px 0 4px;
 }
 
 }
@@ -292,7 +309,6 @@ input[type=submit] {
         .main-section
       {
         max-width: 300px;
-        /* padding: 30px; */
          margin: 0 0 40px;
         background: #fff;
         border: 1px solid #ddd;
@@ -313,11 +329,29 @@ input[type=submit] {
         background: #fff;
         border: 1px solid #ddd;
         margin-left: 10px;
-        
       }
 
       #message {
-  height: 100px;
+        height: 100px;
+    }
+
+.work img 
+{
+width: 50%;
+height: 50px;
+
+}
+
+.work h3{
+  width: 40%;
+  line-height: 1px;
+  font-weight: 100;
+  font-size: 8px;
+  
+}
+
+.work{
+   margin: 5px 0 4px;
 }
 
 }
